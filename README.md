@@ -19,6 +19,7 @@ I'm Abdelali from morocco, I do full-time freelancing as a full-stack web develo
 <a href="https://linkedin.com/in/abouelhassan-abdelali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abouelhassan-abdelali" height="30" width="40" /></a>
 <a href="https://fb.com/abdelali.lol.blackcover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelali.lol.blackcover" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/abouelhass" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" alt="abouelhass" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01045a44054481c1f0" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bb/61806/svg/fiverr-1.svg" alt="/~01045a44054481c1f0" height="30" width="40" /></a>
  <a href="https://instagram.com/aboue_abdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aboue_abdo" height="30" width="40" /></a>
 </p>
 
