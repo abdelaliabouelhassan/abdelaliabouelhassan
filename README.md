@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abdelali from morocco, I do full-time freelancing as a full-stack web developer, love building applications that help businesses, not only in automating tasks and saving time but also in streamlining business processes and helping in decision making. I had started with PHP as baseline language to build applications faster, and then tried and mastered some of the prominent frameworks like Laravel, CI, Symfony, Vue js, Nuxt js,tailwindcss, etc. Also considering front-end being an essential piece of the puzzle
+I'm Abdelali from morocco, I do full-time freelancing as a full-stack web developer, I love building applications that help businesses, not only in automating tasks and saving time but also in streamlining business processes and helping in decision making. I started with PHP as the baseline language to build applications faster, and then tried and mastered some of the prominent frameworks like Laravel, CI, Symfony, etc. Also considering the front-end is an essential piece of the puzzle
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
