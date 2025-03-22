@@ -4,7 +4,7 @@ I'm Abdelali from morocco, I do full-time freelancing as a full-stack web develo
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love coding and playing games.
 
 
